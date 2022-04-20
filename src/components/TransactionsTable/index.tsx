@@ -1,12 +1,12 @@
 import { useEffect } from 'react'
+import { api } from '../../services/api'
 import { Container } from './styles'
 
 export function TransactionsTable(){
 
   useEffect(()=>{
-    fetch('http://localhost:3000/api/transactions')
-    .then(resp => resp.json())
-    .then(data => console.log(data))
+    api.get('transactions')
+    .then(resp => console.log(resp.data))
 
   },[])
 
