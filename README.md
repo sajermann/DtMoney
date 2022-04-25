@@ -1,46 +1,23 @@
-# Getting Started with Create React App
+# 🚀 Dt Money
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto de lançamento de finanças.
 
-## Available Scripts
+## Tecnologias
 
-In the project directory, you can run:
+📁 Back-end: N/A
 
-### `npm start`
+🗄️ Banco de Dados: MirageJs (Simulando o Banco de Dados)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+🖥️ Front-end: ReactJs
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+📱 Mobile: N/A
 
-### `npm test`
+### Para rodar a aplicação
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Execute `npm install` na raiz do projeto para instalar as dependências e em seguida execute `npm start` para iniciar a aplicação.
 
-### `npm run build`
+**Tela Principal**
+![Principal](https://lh3.googleusercontent.com/pw/AM-JKLVimIu8BbHCCBEUqxsoaIB-vBVm_CfxmLjJZSR0gcNLkZq673-vDiKlwjR3zTpBD31CqGPtq629koqkE3JeZtz1zg9IHXKoXLGyDo3hCJ07B9fUfqd5gXjYdshhBW3MhwsBwtwj9LQpp-pnMmwZWXI=w1825-h884-no?authuser=0)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+**Tela Cadastro**
+![Cadastro](https://lh3.googleusercontent.com/pw/AM-JKLWefXZ0PPf7WoaSR-anhGMm5pqtkgmNVj0pvf_onREEZuitSoUTWZzmx9fBPZ2Ip_gj6XJ--esGxo3qrerW5wHLwSB1uS_hyv7ze6qR0bem4wPtdaMOQ3R_rWvl2sEGn1Cps8qzmHdjPtXTqzLh99s=w1718-h884-no?authuser=0)
