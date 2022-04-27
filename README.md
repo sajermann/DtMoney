@@ -1,6 +1,6 @@
 # 🚀 Dt Money
 
-Projeto de lançamento de finanças.
+Projeto de lançamento de finanças simples.
 
 ## Tecnologias
 
